@@ -1,5 +1,5 @@
 {
-  "name": "my-first-app",
+  "name": "ng-complete-guide-update",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -21,7 +21,6 @@
     "@angular/router": "^11.0.5",
     "bootstrap": "3.3.7",
     "rxjs": "^6.6.3",
-    "rxjs-compat": "^6.0.0",
     "tslib": "^2.0.3",
     "zone.js": "^0.10.3"
   },
@@ -40,7 +39,6 @@
     "karma-coverage": "~2.0.3",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.4",
-    "prettier": "2.3.1",
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
