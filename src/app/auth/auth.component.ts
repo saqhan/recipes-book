@@ -9,6 +9,8 @@ import {Observable} from "rxjs";
 })
 export class AuthComponent {
 
+
+
   isLoginMode = true;
   isLoading = false;
   error: string = null;
